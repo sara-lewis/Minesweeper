@@ -1,3 +1,3 @@
 # Minesweeper
 
-My own version of Minesweeper from study abroad during summer 2018. 
+My own version of Minesweeper from my program abroad during the summer of 2018. 
